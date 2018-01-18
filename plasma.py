@@ -92,5 +92,4 @@ def example():
     GRS1915.get_inputs()
     GRS1915.get_outputs()   
 
-example()
 
